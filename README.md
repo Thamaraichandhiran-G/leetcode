@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -37,4 +38,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
