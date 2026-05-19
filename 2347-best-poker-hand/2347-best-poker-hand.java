@@ -12,16 +12,25 @@ class Solution {
         }
         if(5==su.get(suits[0])) return "Flush";
 
-       for(int j : rk.values()){
-            if(j>=3){
-                return "Three of a Kind";
-            }
+    //    for(int j : rk.values()){
+    //         if(j>=3){
+    //             return "Three of a Kind";
+    //         }
+    //     }
+    //     for(int j : rk.values()){
+    //         if(j>=2){
+    //             return "Pair";
+    //         }
+    //     }
+        int max = Collections.max(rk.values());
+        if(max>=3){
+            return "Three of a Kind";
         }
-        for(int j : rk.values()){
-            if(j>=2){
-                return "Pair";
-            }
+        else if( max ==2 ){
+            return "Pair";
         }
-        return "High Card";
+        else{
+            return "High Card";
+        }
     }
 }
