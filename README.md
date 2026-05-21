@@ -44,6 +44,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
@@ -67,4 +68,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
