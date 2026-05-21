@@ -9,6 +9,7 @@
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
