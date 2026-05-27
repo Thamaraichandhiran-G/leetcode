@@ -52,6 +52,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -81,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
