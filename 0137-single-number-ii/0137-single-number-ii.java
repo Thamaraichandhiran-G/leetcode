@@ -37,10 +37,7 @@ class Solution {
         System.out.println(Arrays.toString(arr));
 
         for(int i=1;i<n;i+=3){
-            if(arr[i-1]==arr[i]){
-                continue;
-            }
-            else{
+            if(arr[i-1]!=arr[i]){
                 return arr[i-1];
             }
         }
