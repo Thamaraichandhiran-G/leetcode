@@ -29,12 +29,7 @@ class Solution {
         // }
         // return ans;
 
-        if(n<=3){
-            return arr[0];
-        }
-
         Arrays.sort(arr);
-        System.out.println(Arrays.toString(arr));
 
         for(int i=1;i<n;i+=3){
             if(arr[i-1]!=arr[i]){
