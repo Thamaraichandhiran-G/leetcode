@@ -29,13 +29,22 @@ class Solution {
         // }
         // return ans;
 
-        Arrays.sort(arr);
+        // Arrays.sort(arr);
 
-        for(int i=1;i<n;i+=3){
-            if(arr[i-1]!=arr[i]){
-                return arr[i-1];
-            }
+        // for(int i=1;i<n;i+=3){
+        //     if(arr[i-1]!=arr[i]){
+        //         return arr[i-1];
+        //     }
+        // }
+        // return arr[n-1];
+
+
+        int one = 0 , two =0;
+
+        for(int i=0;i<arr.length;i++){
+            one = (arr[i] ^ one ) & ~two;
+            two = (arr[i]^ two)  & ~one;
         }
-        return arr[n-1];
+        return one;
     }
 }
