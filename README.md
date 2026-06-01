@@ -7,6 +7,7 @@
 | [0137-single-number-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1051-height-checker](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1051-height-checker/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -21,11 +22,13 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1051-height-checker/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
