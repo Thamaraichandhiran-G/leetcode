@@ -39,10 +39,12 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2360-longest-cycle-in-a-graph](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2360-longest-cycle-in-a-graph](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -118,4 +120,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0392-is-subsequence/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
