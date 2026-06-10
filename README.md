@@ -9,6 +9,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0137-single-number-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1051-height-checker](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1051-height-checker/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -22,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Greedy
@@ -32,6 +34,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1051-height-checker](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1051-height-checker/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
@@ -66,6 +69,7 @@
 | [0205-isomorphic-strings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0290-word-pattern/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -79,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
