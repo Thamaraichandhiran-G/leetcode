@@ -85,6 +85,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 ## Linked List
@@ -106,6 +107,7 @@
 | [0205-isomorphic-strings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -120,6 +122,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -149,4 +152,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
