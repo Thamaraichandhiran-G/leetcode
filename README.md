@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0118-pascals-triangle](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -35,6 +36,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0015-3sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1051-height-checker](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
@@ -84,6 +86,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0015-3sum/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0392-is-subsequence/) | Easy |
