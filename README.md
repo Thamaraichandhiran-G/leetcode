@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0056-merge-intervals](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0118-pascals-triangle](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0137-single-number-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0137-single-number-ii/) | Medium |
@@ -37,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1051-height-checker](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
