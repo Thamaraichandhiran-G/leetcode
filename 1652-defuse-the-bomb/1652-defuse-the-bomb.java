@@ -5,28 +5,30 @@ class Solution {
         if(k==0){
             return res;
         }
+        if(k<0){
+            int l =0, r = n-1;
+
+            while(l<r){
+                int t = arr[r];
+                arr[r]= arr[l];
+                arr[l]= t;
+                l++;
+                r--;
+            }
+        }
         for(int i=0;i<n;i++){
             int t= k;
-            int st=i;
+            int st=i+1;
             int sum=0;
-            if(k>0){
-                st++;
+                if(k<0){
+                    t=-t;
+                    st=n-i;
+                }
                 while(t!=0){
                     sum+=arr[st%n];
                     st++;
                     t--;
                 }
-                
-            }else{
-                t=-t;
-                st=n-st;
-                while(t!=0){
-                    sum+=arr[n-(st%n)-1];
-                    st++;
-                    t--;
-                }
-                
-            }
             res[i]=sum;
             
         }
