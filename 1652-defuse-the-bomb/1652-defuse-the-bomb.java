@@ -5,55 +5,27 @@ class Solution {
         if(k==0){
             return res;
         }
-
         for(int i=0;i<n;i++){
             int t= k;
             int st=i;
             int sum=0;
             if(k>0){
-                // if(st==n-1){
-                //     st=0;
-                // }else{
-                    st++;
-                // }
+                st++;
                 while(t!=0){
                     sum+=arr[st%n];
                     st++;
                     t--;
                 }
-                // if(t!=0){
-                //     st=0;
-                // }
-                // while( t!=0 && st<n ){
-                //     sum+=arr[st];
-                //     st++;
-                //     t--;
-                // }
                 
             }else{
                 t=-t;
-
-                if(st==0){
-                    st=n-1;
-                }
-                else{
-                    st--;
-                }
-
-                while(t!=0 && st>=0){
-                    sum+=arr[st];
-                    st--;
-                    t--;
-                    
-                }
-                if(t!=0){
-                    st=n-1;
-                }
-                while(t!=0 && st>=0){
-                    sum+=arr[st];
-                    st--;
+                st=n-st;
+                while(t!=0){
+                    sum+=arr[n-(st%n)-1];
+                    st++;
                     t--;
                 }
+                
             }
             res[i]=sum;
             
