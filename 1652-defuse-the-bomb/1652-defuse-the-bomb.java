@@ -11,24 +11,24 @@ class Solution {
             int st=i;
             int sum=0;
             if(k>0){
-                if(st==n-1){
-                    st=0;
-                }else{
+                // if(st==n-1){
+                //     st=0;
+                // }else{
                     st++;
-                }
-                while(t!=0 && st<n){
-                    sum+=arr[st];
-                    st++;
-                    t--;
-                }
-                if(t!=0){
-                    st=0;
-                }
-                while( t!=0 && st<n ){
-                    sum+=arr[st];
+                // }
+                while(t!=0){
+                    sum+=arr[st%n];
                     st++;
                     t--;
                 }
+                // if(t!=0){
+                //     st=0;
+                // }
+                // while( t!=0 && st<n ){
+                //     sum+=arr[st];
+                //     st++;
+                //     t--;
+                // }
                 
             }else{
                 t=-t;
