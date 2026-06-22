@@ -81,6 +81,7 @@
 | [0290-word-pattern](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -88,6 +89,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -121,6 +123,7 @@
 | [0290-word-pattern](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
