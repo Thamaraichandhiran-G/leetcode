@@ -24,7 +24,6 @@ class Solution {
         for(int i=0;i<sb.length();i++){
             chars[i]=sb.charAt(i);
         }
-        System.out.println(sb.length());
         return sb.length();
         
     }
