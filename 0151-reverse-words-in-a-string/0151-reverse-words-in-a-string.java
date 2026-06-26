@@ -3,7 +3,7 @@ class Solution {
         
         s = s.trim();
 
-        String str[]= s.split("\\s+");
+        String str[]= s.split("\s+");
 
         int n = str.length;
 
