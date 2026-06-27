@@ -141,6 +141,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3856-trim-trailing-vowels](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
