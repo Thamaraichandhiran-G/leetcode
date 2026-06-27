@@ -1,6 +1,9 @@
 class Solution {
     public boolean canConstruct(String r, String m) {
         
+        if(m.length()<r.length()){
+            return false;
+        }
         int arr[]= new int[26];
 
         for(char c: m.toCharArray()){
