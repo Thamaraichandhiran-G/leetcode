@@ -14,6 +14,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1051-height-checker](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1051-height-checker/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -84,6 +85,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
@@ -95,6 +97,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0383-ransom-note/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -137,6 +140,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0443-string-compression](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
