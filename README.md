@@ -144,6 +144,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -168,6 +169,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3921-score-validator](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3921-score-validator/) | Easy |
@@ -208,6 +210,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
