@@ -18,6 +18,7 @@
 | [1652-defuse-the-bomb](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
@@ -137,6 +138,7 @@
 | [0844-backspace-string-compare](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
