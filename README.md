@@ -25,6 +25,7 @@
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3921-score-validator](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@
 | [3798-largest-even-number](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3798-largest-even-number/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
+| [3921-score-validator](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3921-score-validator/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +166,7 @@
 | [0844-backspace-string-compare](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3921-score-validator](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
