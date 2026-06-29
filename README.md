@@ -215,4 +215,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1763-longest-nice-substring](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0607-sales-person](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0607-sales-person/) | Easy |
 <!---LeetCode Topics End-->
