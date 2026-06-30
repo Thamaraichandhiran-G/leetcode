@@ -144,6 +144,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
