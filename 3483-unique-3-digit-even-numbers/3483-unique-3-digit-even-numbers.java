@@ -1,0 +1,37 @@
+class Solution {
+    public int totalNumbers(int[] arr) {
+        
+        int n = arr.length;
+        int c=0;
+
+        if(n<3){
+            return c;
+        }
+       
+       HashSet<Integer> set = new HashSet<>();
+       for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                for (int k = 0; k < n; k++) {
+
+                    if (i == j || j == k || i == k) {
+                        continue;
+                    }
+
+                    if (arr[i] == 0) {
+                        continue;
+                    }
+
+
+                    if (arr[k] % 2 != 0) {
+                        continue;
+                    }
+
+                    int num = arr[i] * 100 + arr[j] * 10 + arr[k];
+                    set.add(num);
+                }
+            }
+        }
+
+        return set.size();
+    }
+}
