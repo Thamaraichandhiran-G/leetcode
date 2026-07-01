@@ -127,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0326-power-of-three/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -183,6 +184,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0231-power-of-two](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 ## Math
@@ -191,6 +193,7 @@
 | [0009-palindrome-number](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0231-power-of-two](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
