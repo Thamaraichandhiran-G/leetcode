@@ -187,6 +187,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
