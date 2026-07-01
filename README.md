@@ -26,6 +26,7 @@
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3921-score-validator](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search
@@ -93,6 +94,7 @@
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -129,6 +131,7 @@
 | [0206-reverse-linked-list](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0326-power-of-three/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,4 +237,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0278-first-bad-version/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
