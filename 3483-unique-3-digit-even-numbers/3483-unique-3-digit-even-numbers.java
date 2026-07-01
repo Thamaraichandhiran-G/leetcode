@@ -2,10 +2,9 @@ class Solution {
     public int totalNumbers(int[] arr) {
         
         int n = arr.length;
-        int c=0;
 
         if(n<3){
-            return c;
+            return 0;
         }
        
        HashSet<Integer> set = new HashSet<>();
