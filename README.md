@@ -147,6 +147,7 @@
 | [0392-is-subsequence](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0443-string-compression](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0443-string-compression/) | Medium |
+| [0686-repeated-string-match](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -243,4 +244,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0686-repeated-string-match](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0686-repeated-string-match/) | Medium |
 <!---LeetCode Topics End-->
