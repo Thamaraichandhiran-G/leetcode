@@ -26,6 +26,7 @@
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3921-score-validator](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -203,6 +204,7 @@
 | [0326-power-of-three](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
