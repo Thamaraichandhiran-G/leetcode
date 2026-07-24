@@ -5,8 +5,8 @@ class Solution {
 
         for(char c : s.toCharArray()){
             if(c=='|'){
-                if(st.search('|')!=-1){
-                    while(st.peek()!='|'){
+                if(st.search(c)!=-1){
+                    while(st.peek()!=c){
                         st.pop();
                     }
                     st.pop();
