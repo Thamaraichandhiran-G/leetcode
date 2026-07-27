@@ -13,6 +13,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1051-height-checker](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -50,6 +51,7 @@
 | [0015-3sum](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1051-height-checker](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
@@ -206,6 +208,7 @@
 | [0231-power-of-two](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Dynamic Programming
