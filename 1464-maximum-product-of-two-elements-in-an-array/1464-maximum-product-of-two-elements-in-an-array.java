@@ -3,9 +3,7 @@ class Solution {
         int fm =-1;
         int sm = -1;
 
-        int n = nums.length;
-
-        for(int i=0;i<n;i++){
+        for(int i=0;i<nums.length;i++){
             if(fm<=nums[i]){
                 sm = fm;
                 fm = nums[i];
