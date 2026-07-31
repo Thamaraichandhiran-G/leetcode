@@ -91,6 +91,7 @@
 | [0290-word-pattern](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -106,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
@@ -149,6 +151,7 @@
 | [0205-isomorphic-strings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0443-string-compression](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0443-string-compression/) | Medium |
@@ -260,4 +263,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
