@@ -98,6 +98,7 @@
 | [1763-longest-nice-substring](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -111,6 +112,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -164,6 +166,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2315-count-asterisks](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2315-count-asterisks/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -202,6 +205,7 @@
 | [0231-power-of-two](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
