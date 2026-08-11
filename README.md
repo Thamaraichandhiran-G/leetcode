@@ -27,6 +27,7 @@
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -57,6 +58,7 @@
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
