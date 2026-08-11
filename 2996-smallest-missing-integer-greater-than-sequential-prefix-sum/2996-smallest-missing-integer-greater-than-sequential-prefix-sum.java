@@ -15,7 +15,7 @@ class Solution {
         }
         while(true){
             boolean f = false;
-            for(int a = 0 ;a<n;a++){
+            for(int a = i-1 ;a<n;a++){
                 if(arr[a]==ans){
                     ans++;
                     f = true;
