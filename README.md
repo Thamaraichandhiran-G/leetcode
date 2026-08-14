@@ -99,6 +99,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [2266-count-number-of-texts](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2266-count-number-of-texts/) | Medium |
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -168,6 +169,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
+| [2266-count-number-of-texts](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2266-count-number-of-texts/) | Medium |
 | [2315-count-asterisks](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2315-count-asterisks/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -220,6 +222,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [2266-count-number-of-texts](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2266-count-number-of-texts/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -227,6 +230,7 @@
 | [0118-pascals-triangle](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [2266-count-number-of-texts](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2266-count-number-of-texts/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
