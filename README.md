@@ -21,6 +21,7 @@
 | [1652-defuse-the-bomb](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2347-best-poker-hand](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2347-best-poker-hand/) | Easy |
@@ -44,6 +45,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 ## Sorting
