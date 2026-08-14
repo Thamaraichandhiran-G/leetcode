@@ -4,9 +4,10 @@ class Solution {
         int c=0;
 
         for(int i=1;i<arr.length;i++){
-            while(arr[i]<=arr[i-1]){
-                arr[i]++;
-                c++;
+            if(arr[i]<=arr[i-1]){
+                c+=arr[i-1]-arr[i]+1;
+                arr[i]=arr[i-1]+1;
+                
             }
         }
         return c;
