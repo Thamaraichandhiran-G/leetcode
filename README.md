@@ -70,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2360-longest-cycle-in-a-graph](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -237,11 +238,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -250,6 +253,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Divide and Conquer
