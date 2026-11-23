@@ -19,8 +19,8 @@ class Solution:
         tot = 0
         prev = 0
 
-        for i in range(len(s) - 1, -1, -1):
-            curr = value(s[i])
+        for i in reversed(s):
+            curr = value(i)
             if curr < prev:
                 tot -= curr
             else:
