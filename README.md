@@ -155,6 +155,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -256,6 +257,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -287,4 +289,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Thamaraichandhiran-G/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
