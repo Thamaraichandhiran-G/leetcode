@@ -1,28 +1,12 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         st = []
-        op = '{(['
+        pairs = { ')':'(','}':'{',']':'['}
+
         for a in s:
-            if a in op:
+            if a in '({[':
                 st.append(a)
             else:
-                if len(st)==0:
+                if not st or  pairs[a] != st.pop():
                     return False
-                match(a):
-                    case ')':
-                        if st.pop()!='(':
-                            return False
-                    case '}':
-                        if st.pop()!='{':
-                            return False
-                    case ']':
-                        if st.pop()!='[':
-                            return False
-        if(not st):
-            return True
-        else:
-            return False
-
-
-                    
-        
+        return not st    
